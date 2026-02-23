@@ -1,8 +1,8 @@
 # AI Chat Bot 🤖
 
-A simple AI-powered chat interface built with vanilla JavaScript (or your chosen stack), demonstrating the integration of large language model APIs for natural language interaction.
+A simple AI-powered chat interface built with vanilla JavaScript, demonstrating the integration of large language model APIs for natural language interaction.
 
-This project showcases how OpenAI, or can be used to build a real-time conversational interface — a foundation for more advanced AI-assisted workflows.
+This project showcases how OpenAI, can be used to build a real-time conversational interface — a foundation for more advanced AI-assisted workflows.
 
 ---
 
